@@ -1,0 +1,45 @@
+C:\Users\Aaron\testcode\bin\Debug\netcoreapp3.1\Aaron.exe
+C:\Users\Aaron\testcode\bin\Debug\netcoreapp3.1\Aaron.deps.json
+C:\Users\Aaron\testcode\bin\Debug\netcoreapp3.1\Aaron.runtimeconfig.json
+C:\Users\Aaron\testcode\bin\Debug\netcoreapp3.1\Aaron.runtimeconfig.dev.json
+C:\Users\Aaron\testcode\bin\Debug\netcoreapp3.1\Aaron.dll
+C:\Users\Aaron\testcode\bin\Debug\netcoreapp3.1\Aaron.pdb
+C:\Users\Aaron\testcode\obj\Debug\netcoreapp3.1\Aaron.csprojAssemblyReference.cache
+C:\Users\Aaron\testcode\obj\Debug\netcoreapp3.1\Aaron.AssemblyInfoInputs.cache
+C:\Users\Aaron\testcode\obj\Debug\netcoreapp3.1\Aaron.AssemblyInfo.cs
+C:\Users\Aaron\testcode\obj\Debug\netcoreapp3.1\Aaron.csproj.CoreCompileInputs.cache
+C:\Users\Aaron\testcode\obj\Debug\netcoreapp3.1\Aaron.dll
+C:\Users\Aaron\testcode\obj\Debug\netcoreapp3.1\Aaron.pdb
+C:\Users\Aaron\testcode\obj\Debug\netcoreapp3.1\Aaron.genruntimeconfig.cache
+C:\Users\Aaron\testcode\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Aaron\testcode\obj\Debug\netcoreapp3.1\Aaron.csproj.CopyComplete
+C:\Users\Aaron\TaustaJärjestelmät koodeja\testcode\bin\Debug\netcoreapp3.1\Aaron.exe
+C:\Users\Aaron\TaustaJärjestelmät koodeja\testcode\bin\Debug\netcoreapp3.1\Aaron.deps.json
+C:\Users\Aaron\TaustaJärjestelmät koodeja\testcode\bin\Debug\netcoreapp3.1\Aaron.runtimeconfig.json
+C:\Users\Aaron\TaustaJärjestelmät koodeja\testcode\bin\Debug\netcoreapp3.1\Aaron.runtimeconfig.dev.json
+C:\Users\Aaron\TaustaJärjestelmät koodeja\testcode\bin\Debug\netcoreapp3.1\Aaron.dll
+C:\Users\Aaron\TaustaJärjestelmät koodeja\testcode\bin\Debug\netcoreapp3.1\Aaron.pdb
+C:\Users\Aaron\TaustaJärjestelmät koodeja\testcode\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Aaron\TaustaJärjestelmät koodeja\testcode\obj\Debug\netcoreapp3.1\Aaron.csprojAssemblyReference.cache
+C:\Users\Aaron\TaustaJärjestelmät koodeja\testcode\obj\Debug\netcoreapp3.1\Aaron.AssemblyInfoInputs.cache
+C:\Users\Aaron\TaustaJärjestelmät koodeja\testcode\obj\Debug\netcoreapp3.1\Aaron.AssemblyInfo.cs
+C:\Users\Aaron\TaustaJärjestelmät koodeja\testcode\obj\Debug\netcoreapp3.1\Aaron.csproj.CoreCompileInputs.cache
+C:\Users\Aaron\TaustaJärjestelmät koodeja\testcode\obj\Debug\netcoreapp3.1\Aaron.csproj.CopyComplete
+C:\Users\Aaron\TaustaJärjestelmät koodeja\testcode\obj\Debug\netcoreapp3.1\Aaron.dll
+C:\Users\Aaron\TaustaJärjestelmät koodeja\testcode\obj\Debug\netcoreapp3.1\Aaron.pdb
+C:\Users\Aaron\TaustaJärjestelmät koodeja\testcode\obj\Debug\netcoreapp3.1\Aaron.genruntimeconfig.cache
+C:\Users\Aaron\TaustaJärjestelmät koodeja\testcode\Assignment1\bin\Debug\netcoreapp3.1\Aaron.exe
+C:\Users\Aaron\TaustaJärjestelmät koodeja\testcode\Assignment1\bin\Debug\netcoreapp3.1\Aaron.deps.json
+C:\Users\Aaron\TaustaJärjestelmät koodeja\testcode\Assignment1\bin\Debug\netcoreapp3.1\Aaron.runtimeconfig.json
+C:\Users\Aaron\TaustaJärjestelmät koodeja\testcode\Assignment1\bin\Debug\netcoreapp3.1\Aaron.runtimeconfig.dev.json
+C:\Users\Aaron\TaustaJärjestelmät koodeja\testcode\Assignment1\bin\Debug\netcoreapp3.1\Aaron.dll
+C:\Users\Aaron\TaustaJärjestelmät koodeja\testcode\Assignment1\bin\Debug\netcoreapp3.1\Aaron.pdb
+C:\Users\Aaron\TaustaJärjestelmät koodeja\testcode\Assignment1\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Aaron\TaustaJärjestelmät koodeja\testcode\Assignment1\obj\Debug\netcoreapp3.1\Aaron.csprojAssemblyReference.cache
+C:\Users\Aaron\TaustaJärjestelmät koodeja\testcode\Assignment1\obj\Debug\netcoreapp3.1\Aaron.AssemblyInfoInputs.cache
+C:\Users\Aaron\TaustaJärjestelmät koodeja\testcode\Assignment1\obj\Debug\netcoreapp3.1\Aaron.AssemblyInfo.cs
+C:\Users\Aaron\TaustaJärjestelmät koodeja\testcode\Assignment1\obj\Debug\netcoreapp3.1\Aaron.csproj.CoreCompileInputs.cache
+C:\Users\Aaron\TaustaJärjestelmät koodeja\testcode\Assignment1\obj\Debug\netcoreapp3.1\Aaron.csproj.CopyComplete
+C:\Users\Aaron\TaustaJärjestelmät koodeja\testcode\Assignment1\obj\Debug\netcoreapp3.1\Aaron.dll
+C:\Users\Aaron\TaustaJärjestelmät koodeja\testcode\Assignment1\obj\Debug\netcoreapp3.1\Aaron.pdb
+C:\Users\Aaron\TaustaJärjestelmät koodeja\testcode\Assignment1\obj\Debug\netcoreapp3.1\Aaron.genruntimeconfig.cache

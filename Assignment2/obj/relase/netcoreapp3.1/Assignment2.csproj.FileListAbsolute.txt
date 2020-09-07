@@ -1,0 +1,13 @@
+C:\Users\Aaron\TaustaJärjestelmät koodeja\testcode\Assignment2\bin\relase\netcoreapp3.1\Assignment2.exe
+C:\Users\Aaron\TaustaJärjestelmät koodeja\testcode\Assignment2\bin\relase\netcoreapp3.1\Assignment2.deps.json
+C:\Users\Aaron\TaustaJärjestelmät koodeja\testcode\Assignment2\bin\relase\netcoreapp3.1\Assignment2.runtimeconfig.json
+C:\Users\Aaron\TaustaJärjestelmät koodeja\testcode\Assignment2\bin\relase\netcoreapp3.1\Assignment2.runtimeconfig.dev.json
+C:\Users\Aaron\TaustaJärjestelmät koodeja\testcode\Assignment2\bin\relase\netcoreapp3.1\Assignment2.dll
+C:\Users\Aaron\TaustaJärjestelmät koodeja\testcode\Assignment2\bin\relase\netcoreapp3.1\Assignment2.pdb
+C:\Users\Aaron\TaustaJärjestelmät koodeja\testcode\Assignment2\obj\relase\netcoreapp3.1\Assignment2.csprojAssemblyReference.cache
+C:\Users\Aaron\TaustaJärjestelmät koodeja\testcode\Assignment2\obj\relase\netcoreapp3.1\Assignment2.AssemblyInfoInputs.cache
+C:\Users\Aaron\TaustaJärjestelmät koodeja\testcode\Assignment2\obj\relase\netcoreapp3.1\Assignment2.AssemblyInfo.cs
+C:\Users\Aaron\TaustaJärjestelmät koodeja\testcode\Assignment2\obj\relase\netcoreapp3.1\Assignment2.csproj.CoreCompileInputs.cache
+C:\Users\Aaron\TaustaJärjestelmät koodeja\testcode\Assignment2\obj\relase\netcoreapp3.1\Assignment2.dll
+C:\Users\Aaron\TaustaJärjestelmät koodeja\testcode\Assignment2\obj\relase\netcoreapp3.1\Assignment2.pdb
+C:\Users\Aaron\TaustaJärjestelmät koodeja\testcode\Assignment2\obj\relase\netcoreapp3.1\Assignment2.genruntimeconfig.cache

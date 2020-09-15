@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "wr9IKs3XIDZsIK6tHLJEsVcTIr2d5oJONK/VjE+OmoW3vSLGRmRsCIT+ankXlMB/yPm5uuW/+Bx7b7ile47jjg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Aaron\\TaustaJärjestelmät koodeja\\testcode\\Assignment3\\Assignment3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Aaron\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

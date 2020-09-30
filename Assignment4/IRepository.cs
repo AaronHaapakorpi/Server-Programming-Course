@@ -13,4 +13,10 @@ public interface IRepository
     Task<Item[]> GetAllItems(Guid playerId);
     Task<Item> UpdateItem(Guid playerId, Item item);
     Task<Item> DeleteItem(Guid playerId, Item item);
+    Task<Player[]> GetWithScoreOver(int minScore);
+    Task<Player> GetWithName(string name);
+    Task<Player> UpdateName(Guid id, string name);
+    Task<Player[]> GetSorted(int limit);
+
+    Task<int> GetMostCommonLevel();
 }

@@ -82,4 +82,27 @@ public class FileRepository : IRepository
     {
         throw new NotImplementedException();
     }
+
+    public Task<Player[]> GetWithScoreOver(int minScore)
+    {
+        throw new NotImplementedException();
+    }
+    public Task<Player> GetWithName(string name){
+        throw new NotImplementedException();;
+    }
+
+    public Task<Player> UpdateName(Guid id, string name)
+    {
+        throw new NotImplementedException();
+    }
+
+    public Task<Player[]> GetSorted(int limit)
+    {
+        throw new NotImplementedException();
+    }
+
+    public Task<int> GetMostCommonLevel()
+    {
+        throw new NotImplementedException();
+    }
 }

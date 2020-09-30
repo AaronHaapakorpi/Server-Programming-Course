@@ -21,7 +21,7 @@ namespace Assignment4.Controllers
             repository = rep;
         }
         [HttpGet]
-        [Route("Get")]
+        [Route("{id:Guid}")]
         public Task<Player> Get(Guid id){
             return repository.Get(id);
             
@@ -53,6 +53,35 @@ namespace Assignment4.Controllers
         
         }
 
+        [HttpGet]
+
+        [Route("")]
+        public async Task<Player[]> GetWithScoreOver(int minScore){
+            return await repository.GetWithScoreOver(minScore);
+        }
+
+        [HttpGet]
+        [Route("{name}")]
+        public async Task<Player> GetWithName(string name){
+            return await repository.GetWithName(name);
+        }
+        [HttpPost]
+        [Route("UpdateName/{id}")]
+         public async Task<Player> UpdateName(Guid id, string name){
+             return await repository.UpdateName(id,name);
+         }
+        [HttpGet]
+        [Route("Top")]
+         public async Task<Player[]> GetSorted(){
+             return await repository.GetSorted(10);
+         }
+
+         [HttpGet]
+         [Route("MostCommon")]
+
+         public async Task<int> GetMostCommonLevel(){
+             return await repository.GetMostCommonLevel();
+         }
 
     }
 }
